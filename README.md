@@ -1,12 +1,12 @@
-## Instructions
+# Instructions
 ```
-    python encode.py
+python encode.py
 ```
 NOTE: keys.txt is optional
-# Input.txt Format
+## Input.txt Format
 One Plaintext segment per line
 
-# Keys.txt Input
+## Keys.txt Input
 1st Line: Key
 2nd Line: Initialisation Vector
 
